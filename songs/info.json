@@ -1,0 +1,27 @@
+[
+    {
+        "album": "chill-nights",
+        "title": "Chill Nights",
+        "desc": "Your lonely nights companion 🌚"
+    },
+    {
+        "album": "gaming",
+        "title": "Gaming",
+        "desc": "Show them who is the boss 🐦‍🔥"
+    },
+    {
+        "album": "mood-refresher",
+        "title": "Mood Refresher",
+        "desc": "Let's enlighten your mood 🥰"
+    },
+    {
+        "album": "soft-phonk",
+        "title": "Soft Phonk",
+        "desc": "We promise we'll not give you a heart fail 😉"
+    },
+    {
+        "album": "study-and-workout",
+        "title": "Study and Workout",
+        "desc": "Let's take care of the background while you focus <3"
+    }
+]
