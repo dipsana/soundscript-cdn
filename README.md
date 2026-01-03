@@ -12,11 +12,11 @@ This repository acts as a **public content delivery backend**, allowing the main
 
 This repository exists to:
 
-• host all music & image assets
-• store album metadata in structured JSON
-• provide stable public URLs
-• prevent the main app repo from exceeding GitHub size limits
-• enable unlimited album expansion
+* host all music & image assets
+* store album metadata in structured JSON
+* provide stable public URLs
+* prevent the main app repo from exceeding GitHub size limits
+* enable unlimited album expansion
 
 It contains **no application logic** — only distributable media content.
 
@@ -80,10 +80,10 @@ No code, no scripts, no tracking.
 
 This repo is designed to grow:
 
-• unlimited albums
-• version-safe metadata
-• no impact on app size
-• clean Git history
+* unlimited albums
+* version-safe metadata
+* no impact on app size
+* clean Git history
 
 ---
 
